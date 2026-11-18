@@ -1,0 +1,5 @@
+build/
+hangman
+test_game
+test_game.exe
+data/scores.txt
